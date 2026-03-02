@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Nitika Rawat </h1>
+# Hi, I'm Nitika Rawat
 
-<p align="center">
 🎓 BSc (Hons) Data Science & AI Student <br>
 💻 Web Developer exploring UI & Interaction Design <br>
 🎨 Interested in motion, typography & visually engaging interfaces
-</p>
 
 ---
 
@@ -13,7 +11,8 @@
 Python • Pandas • NumPy • Machine Learning  
 HTML • CSS • JavaScript • WordPress • Git • Figma
 Currently Learning: Figma (UI Design & Prototyping)
----
+
+---  
 
 ## 📌 Featured Projects
 
