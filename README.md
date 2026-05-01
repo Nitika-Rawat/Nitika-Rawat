@@ -43,8 +43,9 @@ Evaluation of lead quality and conversion patterns using SQL and Python
 
 **Business Websites**  
 Developed responsive websites with a focus on structure, usability, and client requirements  
-🔗 http://www.gssconstruction.co.uk/
-🔗 http://randqscaffolding.com/
+-🔗 http://www.gssconstruction.co.uk/
+-🔗 http://randqscaffolding.com/
+
 ---
 
 ## Currently Learning
